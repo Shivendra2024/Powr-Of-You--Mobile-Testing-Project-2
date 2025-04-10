@@ -1,4 +1,4 @@
-# Powr-Of-You- Mobile Testing Project 2
+
 # 📱 Powr of You – Manual Mobile Testing Project
 
 Welcome to the official test plan repository for the **Powr of You** Android application. This project covers the **manual testing strategy** executed to ensure the reliability, usability, and performance of key mobile features across supported devices.
