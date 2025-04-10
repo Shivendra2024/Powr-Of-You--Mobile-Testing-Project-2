@@ -167,8 +167,10 @@ This manual testing effort includes:
 All the following documents will be sent for client approvals:
 
 - Requirement Traceability Matrix (RTM)
+- Mind Map
 - Test Plan Document
 - Test Scenarios & Test Cases
+- Bug Report
 - Final Test Summary Report
 
 🔐 *Testing will proceed to the next phases only after client approval is received for all the above documents.*
