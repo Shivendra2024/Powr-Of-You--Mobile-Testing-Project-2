@@ -45,6 +45,10 @@ Progress dashboards, habit trackers, or AI-driven insights.
 
 ---
 
+## 📌 **Project Explaination Video** -
+https://drive.google.com/file/d/1yAhZPc99rUx9kUzyhAeTafhyO6BTlh8S/view?usp=sharing
+
+
 ## 📌 Introduction
 
 This project outlines the testing strategy for the **Powr of You** mobile application. The goal is to ensure the app delivers a seamless and bug-free experience for its users, validating all major features such as:
