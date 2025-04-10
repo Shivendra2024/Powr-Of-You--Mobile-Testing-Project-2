@@ -1,14 +1,15 @@
 
 # 📱 Powr of You – Manual Mobile Testing Project
 
-Welcome to the official test plan repository for the **Powr of You** Android application. This project covers the **manual testing strategy** executed to ensure the reliability, usability, and performance of key mobile features across supported devices.
+Welcome to the official test Readme repository for the **Powr of You** Android application. This project covers the **manual testing strategy** executed to ensure the reliability, usability, and performance of key mobile features across supported devices.
 
 ---
 
 ## 🔗 Project Link
 **App URL:** [Powr of You – Click Here](#)
 
-## Project Overview Power of You appears to be a self-improvement, wellness, or personal development platform based on the domain name. However, since the website is private or access-restricted, here’s a general overview of what it might offer:
+## Project Overview
+Power of You appears to be a self-improvement, wellness, or personal development platform based on the domain name. However, since the website is private or access-restricted, here’s a general overview of what it might offer:
 
 Possible Features:
 Personal Growth Programs
